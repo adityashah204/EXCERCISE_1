@@ -5,8 +5,8 @@ package exercise1;
  * It then searches the array of cards for the match to the user's card. 
  * To be used as starting code in Exercise
  *
- * @author dancye
- * @author Paul Bonenfant Jan 25, 2022 
+ * @author ADITYA SHAH
+ * @author ADITYA SHAH Jan 26, 2024 
  */
 public class CardTrick {
     
@@ -36,9 +36,8 @@ public class CardTrick {
     }
 
     /**
-     * A simple method to print out personal information. Follow the instructions to 
-     * replace this information with your own.
-     * @author Paul Bonenfant Jan 2022
+     
+     * @author ADITYA SHAH 26 JAN 2024
      */
     private static void printInfo() {
     
